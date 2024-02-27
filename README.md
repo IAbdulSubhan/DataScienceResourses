@@ -41,4 +41,4 @@ This comprehensive course is designed to provide you with a strong foundation in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-science-course.git
+   git clone https://github.com/IAbdulSubhan/DataScienceResourses.git
