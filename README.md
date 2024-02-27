@@ -1,1 +1,1 @@
-# DataScienceResourses
+# Data Science Course Content
