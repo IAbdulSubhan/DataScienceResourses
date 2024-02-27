@@ -1,0 +1,3 @@
+Apriori Algorithm Explained	https://youtu.be/guVvtZ7ZClw?si=IToYDQD_zipPyzET
+Apriori — Association Rule Mining In-depth Explanation and Python Implementation
+https://towardsdatascience.com/apriori-association-rule-mining-explanation-and-python-implementation-290b42afdfc6

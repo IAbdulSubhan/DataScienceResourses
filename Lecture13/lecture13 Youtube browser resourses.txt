@@ -1,0 +1,5 @@
+Hierarchical Agglomerative Clustering [HAC - Single -----> https://youtu.be/RdT7bhm1M3E?si=iWcRBNV9g8lN0-9o
+
+Definitive Guide to Hierarchical Clustering with Python and Scikit-Learn
+|
+--- https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/?authuser=0
